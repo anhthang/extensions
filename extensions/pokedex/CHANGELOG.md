@@ -1,6 +1,6 @@
 # Pokédex Changelog
 
-## [Move Stability] - {PR_MERGE_DATE}
+## [Move Stability] - 2026-01-04
 
 - Fixed extension crash occurring when Pokémon move names are missing in localized languages.
 
